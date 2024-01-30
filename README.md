@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi, 👋 I'm Mahfuz</h1>
+<h3 align="center">Just another coder</h3>
+<p align="center">
+  <a href="https://almahfuz777.github.io/portfolio-website/">About Me</a>
+</p>
 
 <!--
 **almahfuz777/almahfuz777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
